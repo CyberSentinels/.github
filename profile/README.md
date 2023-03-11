@@ -5,3 +5,5 @@
 [*Website*](https://cybersentinels.org)
 
 [*Discord*](https://discord.io/cybersentinels)
+
+![](https://discord.io/cybersentinels/badge)
