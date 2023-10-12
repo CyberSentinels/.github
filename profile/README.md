@@ -10,8 +10,13 @@ As part of our commitment to providing a supportive platform, The Cyber Sentinel
 
 In summary, The Cyber Sentinel Club is a vibrant, inclusive community of cyber and IT professionals dedicated to knowledge sharing, collaboration, innovation, and continuous learning. Our mission is to empower members to become effective cyber sentinels, ensuring a secure digital world for all. By focusing on critical aspects such as advanced threat protection, cyber risk management
 
-[*Website*](https://cybersentinels.org)
 
-[*Discord*](https://discord.io/cybersentinels)
-
-![](https://discord.io/cybersentinels/badge)
+<div align="center">
+        <!-- Website -->
+        <a href="https://cybersentinels.org">
+        <img src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=green" alt="Website">
+        </a>
+        <a href="https://discord.io/cybersentinels">
+        <img src="https://img.shields.io/discord/1077773186772521011?label=Cyber%20Sentinels%20Discord&logo=discord&logoColor=white" alt="Discord">
+        </a>
+</div>
